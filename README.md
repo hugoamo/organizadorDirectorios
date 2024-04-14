@@ -15,4 +15,4 @@ Licencia
 
 * El Organizador se distribuye bajo la licencia MIT. Consulte el archivo LICENSE para obtener más detalles.
 Contacto
-* Si tiene alguna pregunta o comentario sobre el Organizador, comuníquese con nosotros en info@example.com.
+* Si tiene alguna pregunta o comentario sobre el Organizador, comuníquese con nosotros en hamellizo8701@gmail.com.
