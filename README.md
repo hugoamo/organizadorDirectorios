@@ -6,7 +6,7 @@ El Organizador es una herramienta de ordenación de archivos que puede ayudarlo 
 * Copie el ejecutable
  * Copie el archivo ejecutable a la ubicación donde desea ordenar los archivos.
 * Ejecute el .exe
-* Haga doble clic en el archivo ejecutable para iniciar el proceso de ordenación.
+
 ## Requisitos del sistema
 * El Organizador está diseñado para ejecutarse en sistemas operativos Windows. Se requiere una versión de 64 bits de Windows 7 o superior.
 ## Notas
